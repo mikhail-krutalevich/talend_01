@@ -14,6 +14,10 @@
     <module>jobs/process/demo/test_01_0.1</module>
     <module>jobs/process/test_02_0.1</module>
     <module>jobs/process/test_gcs_0.1</module>
+    <module>jobs/process/Examples/getweather_0.1</module>
+    <module>jobs/process/Examples/sayhello_0.1</module>
+    <module>jobs/joblets/jcloudlog_0.1</module>
+    <module>jobs/process/Examples/video_viewers_watch_results_log_filter_0.1</module>
   </modules>
   <properties>
     <talend.project.name>TEST01</talend.project.name>
