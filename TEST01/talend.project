@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_dWJAUfL2Eei-HvXMR69jXQ" label="test01" language="java" technicalLabel="TEST01" author="_dWJAUvL2Eei-HvXMR69jXQ" productVersion="Talend Cloud Data Management Platform-7.1.1.20181026_1147" url="{&quot;location&quot;:&quot;https://github.com/mikhail-krutalevich/talend_01&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" bigData="false">
+    <migrationTask xmi:id="_dkV0YPL2Eei-HvXMR69jXQ" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_dWJAUvL2Eei-HvXMR69jXQ" login="mikhail_krutalevich@trial17033.us.talend.com" firstName="Mikhail" lastName="Krutalevich" type="DQ"/>
+</xmi:XMI>
